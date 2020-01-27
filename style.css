@@ -42,6 +42,15 @@ h2{
 #pizzaImg {
 
 }
+<<<<<<< HEAD
+
+#ingredientsList {
+    background-image: url("./assets/list-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+=======
 section {
     display: flex;
     align-items: left;
@@ -60,3 +69,4 @@ nav #logo {
     height: 35px;
     width: 35px;
 }
+>>>>>>> 66e22420572be8f5f8a46e34b5bd396add722852
