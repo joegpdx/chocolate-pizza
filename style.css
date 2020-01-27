@@ -1,3 +1,21 @@
+section {
+    display: flex;
+    align-items: left;
+}
+nav #logo {
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+    width: 25px;
+}
+#size {
+    align-items: center;
+    float: left;
+}
+#size {
+    height: 35px;
+    width: 35px;
+}
 #mainTitle{
     padding-right: 100px;
     padding-left: 100px;
@@ -24,6 +42,21 @@ h2{
 #pizzaImg {
 
 }
-
-
-
+section {
+    display: flex;
+    align-items: left;
+}
+nav #logo {
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+    width: 25px;
+}
+#size {
+    align-items: center;
+    float: left;
+}
+#size {
+    height: 35px;
+    width: 35px;
+}
