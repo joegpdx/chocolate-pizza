@@ -35,12 +35,13 @@ h2{
 }
 
 #container{
-    display: flex;
-    justify-content: center;
+    display: block;
+    margin-left: 50px;
+    margin-right:50px;
 }
 
 #pizzaImg {
-
+    display: block;
 }
 
 #ingredientsList {
