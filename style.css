@@ -25,5 +25,9 @@ h2{
 
 }
 
+#ingredientsList {
+    background-image: url("./assets/list-bg.png");
+    background-repeat: no-repeat;
+}
 
 
